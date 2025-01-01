@@ -13,7 +13,7 @@ class Tracker:
     def __init__(self):
         # load models
         self.vehicle_detection_model = YOLO("yolov8x.pt")
-        self.license_plate_detector = YOLO("number_plate_detection_2nd_dec.pt")
+        self.license_plate_detector = YOLO("new_best_2nd_dec.pt")
         self.results = {}
         self.vehicles = [2, 3, 5, 7]
 
