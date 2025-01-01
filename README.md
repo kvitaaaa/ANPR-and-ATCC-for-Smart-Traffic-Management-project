@@ -10,7 +10,7 @@ This project implements an intelligent traffic management system utilizing Autom
 - 📈 Visualization capabilities
 
 ### Results
-- you can file the result video at this location : "Provide the link of the output video."
+- you can file the result video at this location : [link for output](https://drive.google.com/file/d/1KlAeAj3-_8RlvUYgMs_QkiYHBhyD7PGM/view?usp=sharing)
 
 ## 🏗️ Project Structure
 ```
