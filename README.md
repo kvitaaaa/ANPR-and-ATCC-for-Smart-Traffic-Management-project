@@ -18,8 +18,8 @@ This project implements an intelligent traffic management system utilizing Autom
 ├── Data/                       # Input data and videos
 ├── Interpolated_results/       # Interpolated CSV files for visualization
 ├── number_plate_detection_model_training/  # Model training files
-├── object_tracker/            # Main detection and vehicle tracking code
-├── output_videos/            # Generated result videos
+├── models/            # Main detection and vehicle tracking code
+├── output/            # Generated result videos
 ├── results/                  # Initial detection CSV files
 ├── testing/                 # Project testing files
 ├── .env                     # Secret keys and configuration
