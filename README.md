@@ -9,7 +9,7 @@ This project creates an advanced traffic management system using Automatic Numbe
 -  Data interpolation for precise tracking
 -  Visualization capabilities
 
-## 🏗️ Project Structure
+## Project Structure
 
 - **CV_Basics/**: Computer vision and OCR learning materials   
 - **Interpolated_results/**: CSV files with interpolated data for improved tracking  
