@@ -12,12 +12,11 @@ This project creates an advanced traffic management system using Automatic Numbe
 ## Project Structure
 
 - **CV_Basics/**: Computer vision and OCR learning materials   
-- **Interpolated_results/**: CSV files with interpolated data for improved tracking  
+- **interpolated_results/**: CSV files with interpolated data for improved tracking  
 - **number_plate_detection_model_training/**: Scripts and resources for model training  
 - **models/**: Core detection and vehicle tracking implementation  
 - **output/**: Generated result videos and processed outputs  
-- **results/**: Initial vehicle detection CSV files  
-- **testing/**: Files for testing the system  
+- **results/**: Initial vehicle detection CSV files    
 - **.gitignore**: Git ignore rules for excluding unnecessary files  
 - **add_missing_data.py**: Script for interpolating missing data in CSV files  
 - **main.py**: Main execution script for vehicle detection  
